@@ -1,7 +1,7 @@
 # patatorSalad
 Takes a single URL or file of URLs, attempts to discover login forms, and creates the appropriate patator command
 
-Requires python3 and aiohttp
+Requires python3, beautifulsoup and aiohttp
 
 ## Install
 ```
